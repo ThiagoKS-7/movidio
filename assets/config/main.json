@@ -1,0 +1,6 @@
+{
+  "API_KEY": "930f4fd453b32304e502ca5fc98aeb61",
+  "READ_TOKEN": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5MzBmNGZkNDUzYjMyMzA0ZTUwMmNhNWZjOThhZWI2MSIsInN1YiI6IjYyYmU3MWYzMjg3MjNjMDA1OTM5YTRiOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.R7FKwe3BhGLF8ts8g4d4zSReSXPQcrr9bwtRDR88DJ4",
+  "BASE_API_URL": "https://www.themoviedb.org/3",
+  "BASE_IMAGE_API_URL": "https://image.tmdb.org/t/p/original/"
+}
